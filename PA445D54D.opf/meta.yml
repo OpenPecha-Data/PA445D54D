@@ -1,0 +1,34 @@
+id: PA445D54D
+initial_creation_type: input
+source_metadata:
+  title: Pedagogy Series
+  language: en
+  description: 'The following texts are available as part of our Pedagogy series on
+    the theory and method of Dharma discourse:'
+  volume:
+    5b74958b853b43fb9d8ed39d7bd04544:
+      title: Notes from Miscellaneous Writings
+      parent: General
+    b422edb403ac4027973645cafdaec2c6:
+      title: Preliminary Points to be Explained When Teaching the Buddha's Word or
+        the Treatises
+      parent: General
+    bc77b62526194274bf1040c67c5f2b68:
+      title: Prologue to Abhisamayālaṃkāra Commentary
+      parent: Abhisamayālaṃkāra
+    bd5ca0241e9146c9bbb5215a491981fc:
+      title: Prologue to Introduction to the Middle Way (Madhyamakāvatāra)
+      parent: Madhyamakāvatāra
+    f8959c73392c48cba604bee356123db9:
+      title: The Way to Explain the King of All Aspiration Prayers, the Secret Vajra
+        Knot
+      parent: Secret Vajra Knot
+    15ecb8fad8da4737ad9628df8f4e613b:
+      title: 'A Garland of Fresh Utpala Flowers: A Brief Synopsis of the Treasury
+        of Precious Qualities, A Treatise of Pith Instructions'
+      parent: Treasury of Precious Qualities
+    3fad2dc2f6a0427498f0520170b52772:
+      title: 'Mirror of the Mind: Prologue to The Treasury of Precious Qualities'
+      parent: Treasury of Precious Qualities
+created_at: '2022-03-01T05:03:49.699221'
+last_modified_at: '2022-03-01T05:03:49.699228'
